@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/SearchServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/filter/IsCustomerFilter.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/Logout.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/SearchByDateServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/AdminIndex.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/mainController.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/UpdateStatusAccountServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/updatePage.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/dao/OrderDao.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/UpdateStatusPlantSerlvet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/utils/JavaMailUntil.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/header.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/DeleteOrderServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/dao/PlantDao.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/manageAccountsServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/LoginServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/ManageAccounts.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/index.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/login.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/DeleteCategoryServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/UpdateServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/GetCategoryServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/dao/accountDao.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/dto/Plant.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/AddToCartServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/header_AdminIndex.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/registration.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/utils/DButils.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/header_customerPage.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/ManageOrders.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/RegistrationServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/logingoole/GoogleUtils.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/customerPage.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/DeletePlantServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/ManagePlants.jsp</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/ManagePlantsServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/SearchAccountServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/src/java/duonght/servlet/SearchOrderServlet.java</file>
+            <file>file:/D:/PRJ/FlowerManagementSystem/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
